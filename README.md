@@ -4,6 +4,7 @@ Netflix clone using Firebase, Redux, and ReactJS with authentication involves bu
 
 ## 🔗 Links
 
+Live App : https://netflix-clone-4c755.web.app/
 
 ## API Reference
 
